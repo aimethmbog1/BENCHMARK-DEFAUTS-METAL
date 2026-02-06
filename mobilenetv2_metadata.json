@@ -1,0 +1,9 @@
+{
+    "model": "MobileNetV2",
+    "img_size": [
+        224,
+        224
+    ],
+    "num_classes": 10,
+    "val_accuracy": 0.5751072764396667
+}
