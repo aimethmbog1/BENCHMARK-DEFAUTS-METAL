@@ -1,0 +1,9 @@
+{
+    "model": "EfficientNetB0",
+    "img_size": [
+        224,
+        224
+    ],
+    "num_classes": 10,
+    "val_accuracy": 0.8433476686477661
+}

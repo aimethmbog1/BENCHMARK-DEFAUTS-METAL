@@ -1,0 +1,4 @@
+Model,Val_Accuracy,Params_M,Inference_ms
+ResNet50,0.8648,24.65,25.22
+EfficientNetB0,0.6116,4.39,20.33
+MobileNetV2,0.5751,2.59,13.69
